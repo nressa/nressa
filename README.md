@@ -5,6 +5,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nressa&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nressa)](https://github.com/nressa/github-readme-stats)
+
 ## 🌱 What I do?
 #### Continuously learning Vue JS and PHP Laravel Framework
 #### Helps to improve business operations by developing and iterating the company tech product.

@@ -5,12 +5,12 @@
 #### Continuously learning Vue JS and PHP Laravel Framework. Helps to improve business operations by developing and iterating the company tech product.
 
 <a href="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight" style="max-width:50%!important" />
 </a>
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight" />
 </a>
 
 # 🌐 Follow me on

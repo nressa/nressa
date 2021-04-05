@@ -1,9 +1,10 @@
 # Hi, I'm Ressa <img src="/images/wave.gif" width="100px">
 #### I am a web developer that enjoys reading books.
 ## 🌱 currently learning (and loving) Vue JS and I enjoy working with PHP Laravel!
-#### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/MagbanuaRessa
-[2]: https://www.linkedin.com/in/ressa-nova-magbanua-3a7850172/
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]

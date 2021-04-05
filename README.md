@@ -4,8 +4,14 @@
 # 🌱 What I do?
 #### Continuously learning Vue JS and PHP Laravel Framework. Helps to improve business operations by developing and iterating the company tech product.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyo)
+<a href="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyo)](https://github.com/nressa/github-readme-stats)
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight" />
+</a>
+
 # 🌐 Follow me on
 #### <img src="/images/linkedin.png" width="20px">[LinkedIn](https://www.linkedin.com/in/ressa-nova-magbanua-3a7850172/) and <img src="/images/twitter.jpg" width="20px">[Twitter](https://twitter.com/MagbanuaRessa)

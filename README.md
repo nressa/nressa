@@ -1,16 +1,16 @@
 # Hi, I'm Ressa <img src="/images/wave.gif" width="60px">
-#### Software Engineer [@1export](http://1export.net)
+### Software Engineer [@1export](http://1export.net)
 
 # 🌱 What I do?
 #### Continuously learning Vue JS and PHP Laravel Framework. Helps to improve business operations by developing and iterating the company tech product.
 
 <a href="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight" style="max-width:50%!important" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight" style="width:50%!important" />
 </a>
 
 # 🌐 Follow me on

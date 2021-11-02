@@ -11,7 +11,7 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=nressa&count_private=true&show_icons=true&theme=tokyonight" />
         </a></td>
     <td valign="top"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight" style="width:50%!important" /></a>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nressa&layout=compact&theme=tokyonight" /></a>
     </td>
   </tr>
 </table>

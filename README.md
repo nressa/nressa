@@ -1,8 +1,8 @@
-# Hi, I'm Ressa <img src="/images/wave.gif" width="60px">
+# Hi, I'm Ressa
 ### Software Engineer [@1export](http://1export.net)
 
 # 🌱 What I do?
-#### Continuously learning Vue JS and PHP Laravel Framework. Helps to improve business operations by developing and iterating the company tech product.
+#### Continuously learning Vue JS and PHP Laravel Framework. Helps to improve business operations by developing and iterating the company tech product. 
 
 <table>
   <tr>

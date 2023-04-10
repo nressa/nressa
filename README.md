@@ -2,7 +2,7 @@
 ### Software Engineer [@1export](http://1export.net)
 
 # 🌱 What I do?
-#### Continuously sipping on coffee ☕ and grooving to SB19 playlist not only fuels my development skills but also helps me enhance business operations by constantly developing and iterating the company's tech product, all while avoiding the temptation to take a nap on my keyboard!
+#### Continuously sipping on coffee ☕ and grooving 💃 to SB19 playlist not only fuels my development skills but also helps me enhance business operations by constantly developing and iterating the company's tech product, all while avoiding the temptation to take a nap on my keyboard 😴!
 
 <table>
   <tr>

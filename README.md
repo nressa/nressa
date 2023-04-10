@@ -2,18 +2,7 @@
 ### Software Engineer [@1export](http://1export.net)
 
 # 🌱 What I do?
-#### Continuously learning Vue JS and PHP Laravel Framework. Helps to improve business operations by developing and iterating the company tech product. 
-
-<table>
-  <tr>
-    <td valign="top">
-      <p>Listen to SB19 while working!</p>
-     </td>
-    <td valign="top">
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0hPkMicZffIYj6a5ETvnD0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </td>
-  </tr>
-</table>
+#### Continuously sipping on coffee ☕ and grooving to SB19 playlist not only fuels my development skills but also helps me enhance business operations by constantly developing and iterating the company's tech product, all while avoiding the temptation to take a nap on my keyboard!
 
 <table>
   <tr>
@@ -29,6 +18,9 @@
 
 # 🌐 Follow me on
 <p align="center">
+  <a href="https://www.hackerrank.com/mressanova" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/Hackerrank-Profile-green" alt="hackerrank">
+  </a> &nbsp; 
   <a href="https://twitter.com/MagbanuaRessa" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
   </a> &nbsp; 
@@ -38,7 +30,4 @@
   <a href="https://github.com/nressa" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
   </a> &nbsp;  
-  <a href="https://www.hackerrank.com/mressanova" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/Hackerrank-Profile-green" alt="hackerrank">
-  </a> &nbsp; 
 </p>

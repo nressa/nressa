@@ -10,7 +10,7 @@
       <p>Listen to SB19 while working!</p>
      </td>
     <td valign="top">
-      <iframe src="https://open.spotify.com/embed/playlist/0hPkMicZffIYj6a5ETvnD0?si=570b581db1394184" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media">          </iframe>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0hPkMicZffIYj6a5ETvnD0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </td>
   </tr>
 </table>

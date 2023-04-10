@@ -1,5 +1,6 @@
 # Hi, I'm Ressa
-### Software Engineer [@1export](http://1export.net)
+### Software Engineer [@1Export](http://1export.com)
+- [@1Export] (http://1export.com) is a startup company that offers an end-to-end e-commerce platform for small and medium-sized enterprises (SMEs) to sell their products globally. The company focuses on helping businesses streamline their export processes and reach a wider market by providing services such as logistics, payment processing, and digital marketing.
 
 # 🌱 What I do?
 #### Continuously sipping on coffee ☕ and grooving 💃 to SB19 playlist not only fuels my development skills but also helps me enhance business operations by constantly developing and iterating the company's tech product, all while avoiding the temptation to take a nap on my keyboard 😴!

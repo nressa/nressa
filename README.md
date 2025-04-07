@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-# 🌐 Follow me on
+# 🌐 Connect with me on
 <p align="center">
   <a href="https://www.hackerrank.com/mressanova" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/Hackerrank-Profile-green" alt="hackerrank">
